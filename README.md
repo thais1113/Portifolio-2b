@@ -29,15 +29,12 @@ https://github.com/thais1113/Portifolio_Tecnico/tree/main/TesteDeSistemas
 * - https://drive.google.com/file/d/1KYQYEG2HI75xbkQ5NquYcBGHmA64fVhc/view?usp=share_link
 --------------------
 #### | D E S E N V O L V I M E N T O _ D E _ S I S T E M A S
+https://github.com/thais1113/Portifolio_Tecnico/tree/main/DesenvolvimentoDeSistemas
 
 *  Projeto final semi terminado
-* - a
+* - https://github.com/thais1113/Portifolio_Tecnico/blob/main/DesenvolvimentoDeSistemas/Lotus
 --------------------
-#### | I M P L A N T A Ç Ã O _ E _ M A N U T E N Ç Ã O _ D E _ S I S T E M A S
 
-
-*  Projeto final semi terminado
-* - a
 
 --------------------
 --------------------
