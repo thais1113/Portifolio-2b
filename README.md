@@ -19,6 +19,23 @@ https://drive.google.com/file/d/19UonvzId3rdLhJM4vDF-ht53t2EvGtQI/view?usp=shari
 *  Um dos primeiros e um dos mais longos feitos em sala. 
 * - https://github.com/thais1113/Portifolio-2b/blob/075e00176b554c7754a850337c34f6813b03c47d/BancoDeDados/LojaDeRoupas.sql
 --------------------
+#### | T E S T E _ D E _ S I S T E M A S
+
+*  Teste de sistemas feito com base no padrão IEE 829
+* - https://drive.google.com/file/d/1KYQYEG2HI75xbkQ5NquYcBGHmA64fVhc/view?usp=share_link
+--------------------
+#### | D E S E N V O L V I M E N T O _ D E _ S I S T E M A S
+
+*  Projeto final semi terminado
+* - a
+--------------------
+#### | I M P L A N T A Ç Ã O _ E _ M A N U T E N Ç Ã O _ D E _ S I S T E M A S
+
+
+*  Projeto final semi terminado
+* - a
+
+--------------------
 --------------------
 --------------------
 --------------------
