@@ -11,11 +11,13 @@ https://github.com/thais1113/Portifolio_Tecnico/tree/main/ProgramacaoDeAplicativ
 
 ---------------------
 #### | M O D E L A G E M _ D E _ S I S T E M A S
+https://github.com/thais1113/Portifolio_Tecnico/tree/075e00176b554c7754a850337c34f6813b03c47d/ModelagemDeSistemas
 
 * Primeiro exemplo pratico de um codigo com relacionametno de composicao.
 * - https://github.com/thais1113/Portifolio-2b/blob/075e00176b554c7754a850337c34f6813b03c47d/ModelagemDeSistemas/Computador.java
 --------------------
 #### | B A N C O _ D E _ D A D O S
+https://github.com/thais1113/Portifolio_Tecnico/tree/075e00176b554c7754a850337c34f6813b03c47d/BancoDeDados
 
 *  Um dos primeiros e um dos mais longos feitos em sala. 
 * - https://github.com/thais1113/Portifolio-2b/blob/075e00176b554c7754a850337c34f6813b03c47d/BancoDeDados/LojaDeRoupas.sql
