@@ -4,10 +4,9 @@ https://drive.google.com/file/d/19UonvzId3rdLhJM4vDF-ht53t2EvGtQI/view?usp=shari
 
 ---------------------
 #### | P R O G R A M A Ç Ã O _ D E _ A P L I C A T I V O S
-
-* Codigo com introducao do random.
 https://github.com/thais1113/Portifolio_Tecnico/tree/main/ProgramacaoDeAplicativos
 
+* Codigo com introducao do random.
 * - https://github.com/thais1113/Portifolio-2b/blob/8cb9c8f4dddc936349d9948dade3d22e888062d8/ProgramacaoDeAplicativos/Dados.java
 
 ---------------------
