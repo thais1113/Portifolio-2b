@@ -23,6 +23,7 @@ https://github.com/thais1113/Portifolio_Tecnico/tree/075e00176b554c7754a850337c3
 * - https://github.com/thais1113/Portifolio-2b/blob/075e00176b554c7754a850337c34f6813b03c47d/BancoDeDados/LojaDeRoupas.sql
 --------------------
 #### | T E S T E _ D E _ S I S T E M A S
+https://github.com/thais1113/Portifolio_Tecnico/tree/main/TesteDeSistemas
 
 *  Teste de sistemas feito com base no padrão IEE 829
 * - https://drive.google.com/file/d/1KYQYEG2HI75xbkQ5NquYcBGHmA64fVhc/view?usp=share_link
